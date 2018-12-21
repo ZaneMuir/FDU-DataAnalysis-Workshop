@@ -81,3 +81,9 @@ in python.
 The best way to learn how to write code is to write code!
 
 Good luck.
+
+---
+
+For in-person training (i.e. I will go to the place you designated, and teach you
+face-to-face), which would not be free, you could contact me via email for details.
+
