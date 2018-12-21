@@ -38,9 +38,12 @@ and make your codes open. And I can invite you into this `FDU-DataAnalysis-Works
 ## Vacation Assignment
 The very first assignment of this workshop is that:
 ```
-TODO
-
+1. collect some example data that you have met or will meet during your study or research.
+2. classify and try to figure out the details of these data, using the "Assignment/template.md" as the template.
 ```
+
+**Note**: `.md` is the extension of `markdown` file. [learn more on markdown](https://en.wikipedia.org/wiki/Markdown)
+you can open it by any plain text editor like `atom`.
 
 
 ## A Python3 Tour
