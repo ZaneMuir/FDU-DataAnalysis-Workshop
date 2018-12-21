@@ -80,10 +80,11 @@ in python.
 ## Finally
 The best way to learn how to write code is to write code!
 
+If you have any technical problem, open an issue on this repository (
+so that everyone else who has a similar question can refer to this issue),
+and I will response as soon as possible.
+
 Good luck.
 
 ---
-
-For in-person training (i.e. I will go to the place you designated, and teach you
-face-to-face), which would not be free, you could contact me via email for details.
 
