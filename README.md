@@ -25,7 +25,8 @@ as well as do your analysis with this powerful tool.
 1. Numeric Data and Numpy
 2. Tabular Data and Pandas
 3. Visualization and Matplotlib
-4. Machine Learning and Scikit-Learn
+4. Statistics and Scipy
+5. Machine Learning and Scikit-Learn
 
 ## Setup Your Computer!
 For this workshop, we will use the `conda` to manage packages and environments.
@@ -42,17 +43,20 @@ The very first assignment of this workshop is that:
 2. classify and try to figure out the details of these data, using the "Assignment/template.md" as the template.
 ```
 
-**Note**: `.md` is the extension of `markdown` file. [learn more on markdown](https://en.wikipedia.org/wiki/Markdown)
+**Note**: `.md` is the extension of `markdown` file.
 you can open it by any plain text editor like `atom`.
+[learn more on markdown](https://en.wikipedia.org/wiki/Markdown)
+
 
 
 ## A Python3 Tour
-You can download and open the `Python3Tour/A_Python3_Tour.ipynb` with `jupyter
-notebook`.
+You can download and open the [`Python3Tour/A_Python3_Tour.ipynb`](#)
+with `jupyter notebook`.
 
 During this vacation, you should at least understand the concepts listed below:
 - Basic Data Types: `int`, `float`, `str`, `bool`
 - Basic Data Collections: `list`, `tuple`, `dict`
+- Basic Control Flow: `if-elif-else`, `for-in`, `while`
 - Functions and Functional Programming: `def`, `lambda`
 - Classes and Objects, and their difference: `class`
 - Error Handling: `try ... except ...`
