@@ -10,5 +10,8 @@ assignees: ''
 ## Describe your problem
 
 ### Paste Full Error Log and Corresponding Codes
+```
+<paste here>
+```
 
 ## Solutions you have tried
