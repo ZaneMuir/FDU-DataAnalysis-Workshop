@@ -38,7 +38,7 @@ this vacation. It would be even better if you could create a Github account,
 and make your codes open. And I can invite you into this `FDU-DataAnalysis-Workshop` repository if you like.
 
 ## Vacation Assignment
-The very first assignment of this workshop is that:
+The very first [assignment](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/Assignment/Assignment%201) of this workshop is that:
 ```
 1. collect some example data that you have met or will meet during your study or research.
 2. classify and try to figure out the details of these data, using the "Assignment/Assignment 1/template.md" as the template.
