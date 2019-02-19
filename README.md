@@ -5,7 +5,7 @@ Machine Learning and Debugging
 
 ## Content
 - [Preface and A Python3 Tour](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/Python3Tour)
-- Numeric Data
+- [Numeric Data](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/NumericData)
 - Tabluar Data
 - Visualization and Statistics
 - Machine Learning
