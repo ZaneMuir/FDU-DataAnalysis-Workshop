@@ -1,5 +1,7 @@
 # FDU Data Analysis Workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZaneMuir/FDU-DataAnalysis-Workshop/master)
+
 Introduction to Scientific Computing, Visualization,
 Machine Learning and Debugging
 
