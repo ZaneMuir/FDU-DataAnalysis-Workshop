@@ -9,7 +9,7 @@ Machine Learning and Debugging
 - [Preface and A Python3 Tour](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/Python3Tour)
 - [Numeric Data](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/NumericData)
 - [Tabluar Data and Statistics](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/TabularData)
-- Visualization
+- [Visualization](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/Visualization)
 - Machine Learning
 
 ---
