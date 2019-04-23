@@ -10,7 +10,7 @@ Machine Learning and Debugging
 - [Numeric Data](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/NumericData)
 - [Tabluar Data and Statistics](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/TabularData)
 - [Visualization](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/Visualization)
-- Machine Learning
+- [Machine Learning](https://github.com/ZaneMuir/FDU-DataAnalysis-Workshop/tree/master/MachineLearning)
 
 ---
 
